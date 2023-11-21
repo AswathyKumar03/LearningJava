@@ -10,7 +10,7 @@ public class AmusementPark {
 		if(height>=90&& height<=200) {
 			System.out.println("Permission Granted");
 		}
-		else  {
+		else   {
 			System.out.println("No permission");
 		}
 
